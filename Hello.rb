@@ -2,3 +2,4 @@
 
 puts "Hello"
 print "Print"
+puts "タリーズなう"
