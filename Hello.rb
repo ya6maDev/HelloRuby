@@ -2,3 +2,5 @@
 
 puts "Hello"
 print "Print"
+puts "Goodbye"
+puts "お腹すいた"
